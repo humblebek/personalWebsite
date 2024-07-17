@@ -1,0 +1,12 @@
+<?php
+return
+[
+    'home'=>'Home',
+    'about'=>'About',
+    'resume'=>'Resume',
+    'services'=>'Services',
+    'skills'=>'Skills',
+    'projects'=>'Projects',
+    'contact'=>'Contact',
+]
+?>
