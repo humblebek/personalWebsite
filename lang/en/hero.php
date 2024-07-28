@@ -9,6 +9,7 @@ return
     'myWorks'=> 'MY WORKS',
     'spec'=> 'PHP>LARAVEL',
     'who'=> 'developer',
-    'cv'=> 'DOWNLOAD CV',
+    'cv'=> 'DOWNLOAD CV(uz)',
+    'cvE'=> 'DOWNLOAD CV(en)',
 ];
 ?>

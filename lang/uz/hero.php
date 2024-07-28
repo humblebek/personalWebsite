@@ -9,6 +9,7 @@ return
     'myWorks'=> 'MENING ISHLARIM',
     'spec'=> 'PHP>LARAVEL',
     'who'=> 'dasturchi',
-    'cv'=> 'CV YUKLASH',
+    'cv'=> 'CV YUKLASH(uz)',
+    'cvE'=> 'CV YUKLASH(en)',
 ];
 ?>

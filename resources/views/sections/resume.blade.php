@@ -27,7 +27,10 @@
         <div class="row justify-content-center mt-5">
             <div class="col-md-6 text-center ftco-animate">
                 <p>
-                    <a href="Resume.pdf" target="_blank" class="btn btn-primary py-4 px-5">@lang('hero.cv')</a>
+                    <a href="rezyume.pdf" target="_blank" class="btn btn-primary py-4 px-5">@lang('hero.cv')</a>
+                </p>
+                <p>
+                    <a href="JURAYEV AZIZBEK-CV.pdf" target="_blank" class="btn btn-primary py-4 px-5">@lang('hero.cvE')</a>
                 </p>
             </div>
         </div>
